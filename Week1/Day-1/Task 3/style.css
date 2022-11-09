@@ -1,0 +1,71 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  /* background-color: black; */
+  background-color: rebeccapurple;
+
+}
+
+button {
+  /* font-size: 16px; */
+  background-color: black;
+  scroll-behavior: smooth;
+  position: sticky;
+}
+a {
+  scroll-behavior: smooth;
+  text-decoration: none;
+  color: white;
+}
+ 
+.btn {
+  display: flex;
+  align-items: center;
+  top: 300px;
+  position: absolute;
+  text-align: center;
+}
+
+.btn{
+  display: flex;
+  align-items: center;
+  top: 300px;
+  position: fixed;
+  text-align: center;
+}
+.btn-1{
+  width: 60px;
+  height: 60px;
+}
+.btn-2{
+  width: 60px;
+  height: 60px;
+}
+.btnn {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  position: fixed;
+  top: 300px;
+  right: 0;
+ 
+}
+.container .slider {
+  white-space: nowrap;
+}
+.slider img {
+  background-color: rebeccapurple;
+  height: 720px;
+  object-fit: contain;
+  width: calc(100% / 1);
+}
