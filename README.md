@@ -14,3 +14,8 @@
 <p>Task1: <a href="https://capable-empanada-d28223.netlify.app/">CSS Flex_Box</a></p>
 <p>Task2: <a href="https://flourishing-tartufo-f549b5.netlify.app/">CSS Grid</a></p>
 <p>Task3: <a href="https://lambent-peony-f8325f.netlify.app/">CSS Media Query</a></p>
+<hr>
+<h4>Day-4&5</h4>
+<p>Task1: <a href="https://cg-qr-code-components.netlify.app/">Qr_Code_Components</a></p>
+<p>Task2: <a href="https://cg-order-summary-components.netlify.app//">Order_Summary_Components</a></p>
+<p>Task3: <a href="https://cg-social-proof-section.netlify.app/">Social_Proof_Components</a></p>
