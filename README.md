@@ -20,3 +20,8 @@
 <p>Task2: <a href="https://cg-order-summary-components.netlify.app//">Order_Summary_Components</a></p>
 <p>Task3: <a href="https://cg-social-proof-section.netlify.app/">Social_Proof_Components</a></p>
 <p>Task4: <a href="https://cg-four-card-section.netlify.app/">Four_Card_Section</a></p>
+<hr>
+<h1>Week 2</h1>
+<h4>Day-1</h4>
+<p>Task1: <a href="https://cg-3-column-preview-card.netlify.app/">Column_Preview_Card</a></p>
+<hr>
