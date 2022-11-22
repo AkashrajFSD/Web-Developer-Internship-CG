@@ -23,5 +23,5 @@
 <hr>
 <h1>Week 2</h1>
 <h4>Day-1</h4>
-<p>Task1: <a href="https://cg-3-column-preview-card.netlify.app/">Column_Preview_Card</a></p>
+<p>Task1: <a href="https://cg-3-column-preview-card.netlify.app/">3-Column_Preview_Card</a></p>
 <hr>
